@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Andre\Documents\Programvaruteknik LNU\1DV535 - Introduction to App Development with Flutter\Assignments\weather_app\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="C:\Users\Andre\Documents\Programvaruteknik LNU\1DV535 - Introduction to App Development with Flutter\Assignments\weather_app\build\app"
+    bootClassPath="C:\Users\Andre\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\Andre\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,4 @@
+#Thu Jul 25 18:54:39 CEST 2024
+base.0=C\:\\Users\\Andre\\Documents\\Programvaruteknik LNU\\1DV535 - Introduction to App Development with Flutter\\Assignments\\weather_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
