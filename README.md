@@ -5,7 +5,6 @@ A Flutter project.
 For a Flutter Intro Course i createad a weather app with the free 5-day, 3-hours weather forecast from 'https://openweathermap.org/'.
 
 Fetches weather from device location, possible to also search and view other location.
-Via the emulator it fetches the Google HQ location as i couldnt change emulator location for some reason.
 
 ## To Run
 
