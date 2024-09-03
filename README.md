@@ -1,16 +1,20 @@
 # weather_app
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+For a Flutter Intro Course i createad a weather app with the free 5-day, 3-hours weather forecast from 'https://openweathermap.org/'.
 
-This project is a starting point for a Flutter application.
+Fetches weather from device location, possible to also search and view other location.
+Via the emulator it fetches the Google HQ location as i couldnt change emulator location for some reason.
 
-A few resources to get you started if this is your first Flutter project:
+## To Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Simply run the project, preferably on a mobile device (VM, emulator).
+<br />
+Hopefully the API-link is still up and running. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Images:
+<img src="imgs/image1.png" alt="test" width="250"/>
+<img src="imgs/image2.png" alt="test" width="250"/>
+<img src="imgs/image3.png" alt="test" width="250"/>
