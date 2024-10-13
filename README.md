@@ -2,9 +2,9 @@
 
 A Flutter project.
 
-For a Flutter Intro Course i createad a weather app with the free 5-day, 3-hours weather forecast from 'https://openweathermap.org/'.
+For a Flutter Course i createad a weather app with the free 5-day, 3-hours weather forecast from 'https://openweathermap.org/'.
 
-Fetches weather from device location, possible to also search and view other location.
+Fetches weather from device location, possible to also search and view other locations weather.
 
 ## To Run
 
