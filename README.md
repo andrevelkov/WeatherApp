@@ -1,8 +1,8 @@
 # weather_app
 
-A Flutter project.
+A Flutter Weather-App project.
 
-For a Flutter Course i createad a weather app with the free 5-day, 3-hours weather forecast from 'https://openweathermap.org/'.
+I've createad a weather app with the free 5-day, 3-hours weather forecast from 'https://openweathermap.org/'.
 
 Fetches weather from device location, possible to also search and view other locations weather.
 
